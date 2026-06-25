@@ -47,3 +47,8 @@ Airbnb-NYC-2019-Excel-Analysis/
 * Answering business questions using exploratory data analysis.
 * Identifying pricing, host, and neighborhood trends.
 * Converting raw data into actionable business insights.
+
+# 📂 Project Resources
+
+# 📊 Google Sheets Analysis
+https://docs.google.com/spreadsheets/d/YOUR_SHEET_ID/view
