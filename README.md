@@ -16,7 +16,6 @@ The objective is to transform raw Airbnb listing data into meaningful business i
 * How do monthly reviews vary across room types and neighborhood groups?
 * Who are the top 10 hosts based on reviews per month?
 * How does room availability differ across room types and neighborhood groups?
-* What relationships exist between Airbnb listing locations and neighborhoods?
 
 ---
 
