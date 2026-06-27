@@ -50,4 +50,4 @@ Airbnb-NYC-2019-Excel-Analysis/
 # 📂 Project Resources
 
 # 📊 Google Sheets Analysis
-https://docs.google.com/spreadsheets/d/YOUR_SHEET_ID/view
+https://docs.google.com/spreadsheets/d/1y1OGyVYw8ES75ybt4IllB3nqOGGONNfVjAiJSzG9gcQ/edit?usp=sharing
