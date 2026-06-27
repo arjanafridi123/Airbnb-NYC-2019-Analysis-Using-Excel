@@ -6,7 +6,6 @@ This project presents an exploratory data analysis (EDA) of the Airbnb NYC 2019 
 
 The objective is to transform raw Airbnb listing data into meaningful business insights that support market analysis and data-driven decision-making.
 
----
 
 # 📊 Business Questions Answered
 
@@ -17,7 +16,6 @@ The objective is to transform raw Airbnb listing data into meaningful business i
 * Who are the top 10 hosts based on reviews per month?
 * How does room availability differ across room types and neighborhood groups?
 
----
 
 # 🛠️ Tools Used
 
@@ -26,18 +24,6 @@ The objective is to transform raw Airbnb listing data into meaningful business i
 * Data Cleaning
 * Business Data Analysis
 
----
-
-# 📂 Project Structure
-
-```text
-Airbnb-NYC-2019-Excel-Analysis/
-│
-├── Airbnb-NYC-2019.xlsx      # Dataset and Pivot Table Analysis
-└── README.md                 # Project documentation
-```
-
----
 
 # 🎓 Key Learnings
 
